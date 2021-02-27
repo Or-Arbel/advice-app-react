@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/advice-app-react/static/css/main.3f4cbcd0.chunk.css",
+    "main.js": "/advice-app-react/static/js/main.0bb41359.chunk.js",
+    "main.js.map": "/advice-app-react/static/js/main.0bb41359.chunk.js.map",
+    "runtime-main.js": "/advice-app-react/static/js/runtime-main.45d40389.js",
+    "runtime-main.js.map": "/advice-app-react/static/js/runtime-main.45d40389.js.map",
+    "static/js/2.4fff3cad.chunk.js": "/advice-app-react/static/js/2.4fff3cad.chunk.js",
+    "static/js/2.4fff3cad.chunk.js.map": "/advice-app-react/static/js/2.4fff3cad.chunk.js.map",
+    "index.html": "/advice-app-react/index.html",
+    "static/css/main.3f4cbcd0.chunk.css.map": "/advice-app-react/static/css/main.3f4cbcd0.chunk.css.map",
+    "static/js/2.4fff3cad.chunk.js.LICENSE.txt": "/advice-app-react/static/js/2.4fff3cad.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/advice-app-react/static/media/city.6f3d8113.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45d40389.js",
+    "static/js/2.4fff3cad.chunk.js",
+    "static/css/main.3f4cbcd0.chunk.css",
+    "static/js/main.0bb41359.chunk.js"
+  ]
+}
